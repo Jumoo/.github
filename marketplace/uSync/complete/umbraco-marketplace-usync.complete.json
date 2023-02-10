@@ -13,8 +13,7 @@
     "IssueTrackerUrl": "https://github.com/Jumoo/uSync.Complete.Issues/issues",
     "LicenseTypes": [
         "Purchase",
-        "Subscription",
-        "Trial"
+        "Subscription"
     ],
     "PackageType": "Package",
     "PackagesByAuthor": [
