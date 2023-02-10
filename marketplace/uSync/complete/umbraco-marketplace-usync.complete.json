@@ -19,6 +19,7 @@
     "PackageType": "Package",
     "PackagesByAuthor": [
         "uSync",
+        "uSync.Forms",
         "Jumoo.TranslationManager",
         "Our.Umbraco.BackOfficeThemes",
         "Our.Umbraco.LinkedPages",
@@ -28,6 +29,10 @@
         {
             "PackageId": "uSync",
             "Description": "Free syncing tool for Umbraco"
+        },
+        {
+            "PackageId": "uSync.Forms",
+            "Description": "Add support for Umbraco.Forms to uSync & uSync.Complete"
         }
     ],
     "Screenshots": [
