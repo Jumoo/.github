@@ -1,0 +1,42 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AuthorDetails": {
+    "Name": "Kevin Jump",
+    "Description": "Kevin is the lead developer at Jumoo",
+    "Url": "https://jumoo.co.uk",
+    "ImageUrl": "https://jumoo.co.uk/img/soren.jpeg"
+  },
+  "Category": "Developer Tools",
+  "DiscussionForumUrl": "https://our.umbraco.com/packages/developer-tools/usync/usync/",
+  "DocumentationUrl": "https://docs.jumoo.co.uk/usync/intro",
+  "LicenseTypes": [
+    "Free"
+  ],
+  "IssueTrackerUrl": "https://github.com/KevinJump/uSync.Forms/issues",
+  "PackageType": "Package",
+  "PackagesByAuthor": [
+    "uSync",
+    "uSync.Complete",
+    "Jumoo.TranslationManager",
+    "Our.Umbraco.BackOfficeThemes",
+    "Our.Umbraco.LinkedPages",
+    "Our.Umbraco.MaintenanceMode"
+  ],
+  "RelatedPackages": [
+    {
+      "PackageId": "uSync.Complete",
+      "Description": "Full suite of advanced uSync tools"
+    }
+  ],  
+  "Tags": [
+    "deployment",
+    "source-control"
+  ],
+  "Title": "uSync.Forms",
+  "VersionSpecificPackageIds": [
+    {
+      "UmbracoMajorVersion": 8,
+      "PackageId": "uSync.Forms"
+    }
+  ]
+}

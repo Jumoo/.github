@@ -1,0 +1,88 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "Title": "Translation Manager",
+    "AuthorDetails": {
+        "Name": "Jumoo",
+        "Description": "Jumoo are a software development company based in the UK",
+        "Url": "https://jumoo.co.uk",
+        "ImageUrl": "https://jumoo.co.uk/img/ju_square.jpg"
+    },
+    "Category": "Translations",
+    "DiscussionForumUrl": "https://our.umbraco.com/packages/backoffice-extensions/translation-manager/translation-manager-feedback/",
+    "DocumentationUrl": "https://docs.jumoo.co.uk/tm/",
+    "IssueTrackerUrl": "https://github.com/Jumoo/Jumoo.TranslationManager.Issues",
+    "LicenseTypes": [
+        "Purchase",
+        "Free"
+    ],
+    "PackageType": "Package",
+    "PackagesByAuthor": [
+        "uSync",
+        "uSync.Complete",
+        "Jumoo.TranslationManager",
+        "Our.Umbraco.BackOfficeThemes",
+        "Our.Umbraco.LinkedPages",
+        "Our.Umbraco.MaintenanceMode"
+    ],
+    "RelatedPackages": [
+        {
+            "PackageId": "Jumoo.TranslationManager.Connectors.GlobalLink",
+            "Description": "Translation Connector for GlobalLink"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.LanguageWire",
+            "Description": "Translation Connector for LanguageWire"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.Lionbridge",
+            "Description": "Translation Connector for Lionbridge"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.CrowdIn",
+            "Description": "Translation Connector for CrowdIn Platform"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.Connector.TranslatePlus",
+            "Description": "Translation Connector for Translate Plus"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.Connector.DeepL",
+            "Description": "DeepL Translation connector"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.Connector.Google",
+            "Description": "Translation connector for Google API"
+        },
+        {
+            "PackageId": "Jumoo.TranslationManager.Connector.Microsoft",
+            "Description": "Translation Connector for Microsoft translation API"
+        }        
+    ],
+    "Screenshots": [
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/tm/contentapp.png",
+            "Caption": "See the translation status of any page via the Translations content app"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/tm/detailview.png",
+            "Caption": "check the details of a translation"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/tm/jobdetail.png",
+            "Caption": "Control translation jobs directly from the back office"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/tm/overview.png",
+            "Caption": "Get an at a glance view of your translations in the translation section"
+        }
+    ],
+    "Tags": [
+        "translation"
+    ],
+    "VersionSpecificPackageIds": [
+        {
+            "UmbracoMajorVersion": 8,
+            "PackageId": "Jumoo.TranslationManager"
+        }
+    ]
+}

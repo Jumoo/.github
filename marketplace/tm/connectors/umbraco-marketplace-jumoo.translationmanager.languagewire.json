@@ -1,0 +1,48 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "AuthorDetails": {
+        "Name": "Jumoo",
+        "Description": "Jumoo are a software development company based in the UK",
+        "Url": "https://jumoo.co.uk",
+        "ImageUrl": "https://jumoo.co.uk/img/ju_square.jpg"
+    },
+    "Category": "Translations",
+    "PackageType": "Integration",
+    "LicenseTypes": ["Subscription"],
+    "Tags": [
+        "translation"
+    ],
+    "PackagesByAuthor": [
+        "uSync",
+        "uSync.Complete",
+        "Jumoo.TranslationManager",
+        "Our.Umbraco.BackOfficeThemes",
+        "Our.Umbraco.LinkedPages",
+        "Our.Umbraco.MaintenanceMode"
+    ],
+    "RelatedPackages": [
+        { 
+            "PackageId": "Jumoo.TranslationManager",
+            "Description": "Translation tools for Umbraco"
+        }
+    ],
+
+    "Title": "LanguageWire Translation connector",
+    "DiscussionForumUrl": "https://our.umbraco.com/packages/backoffice-extensions/translation-manager/translation-manager-feedback/",
+    "DocumentationUrl": "https://docs.jumoo.co.uk/tm/",
+    "IssueTrackerUrl": "https://github.com/Jumoo/Jumoo.TranslationManager.Issues",
+    "Screenshots": [
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/languagewire-jobview.png",
+            "Caption": "View status of lanugageWire jobs directy in Umbraco"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/languagewire-send.png",
+            "Caption": "Send content directly to Languagewire from the send to translate menu"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/languagewire-settings.png",
+            "Caption": "Control and configure Languagewire connector via the settings screen"
+        }
+    ]
+}

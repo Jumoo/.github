@@ -1,0 +1,72 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "Title": "uSync.Complete",
+    "AuthorDetails": {
+        "Name": "Jumoo",
+        "Description": "Jumoo are a software development company based in the UK",
+        "Url": "https://jumoo.co.uk",
+        "ImageUrl": "https://github.com/jumoo.png"
+    },
+    "Category": "Developer Tools",
+    "DiscussionForumUrl": "https://our.umbraco.com/packages/developer-tools/usync/usynccomplete/",
+    "DocumentationUrl": "https://docs.jumoo.co.uk/usync/complete/Introduction/index",
+    "IssueTrackerUrl": "https://github.com/Jumoo/uSync.Complete.Issues/issues",
+    "LicenseTypes": [
+        "Purchase",
+        "Subscription",
+        "Trial"
+    ],
+    "PackageType": "Package",
+    "PackagesByAuthor": [
+        "uSync",
+        "Jumoo.TranslationManager",
+        "Our.Umbraco.BackOfficeThemes",
+        "Our.Umbraco.LinkedPages",
+        "Our.Umbraco.MaintenanceMode"
+    ],
+    "RelatedPackages": [
+        {
+            "PackageId": "uSync",
+            "Description": "Free syncing tool for Umbraco"
+        }
+    ],
+    "Screenshots": [
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/publisher-settings.png",
+            "Caption": "Control uSync.Publisher via the publisher dashboard"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/publisher-push.png",
+            "Caption": "Push (or pull) content, media and settings between Umbraco Sites directly from the Backoffice."
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/publisher-push-progress.png",
+            "Caption": "View the progress of your publishing"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/publisher-server-settings.png",
+            "Caption": "Control how servers connect with server settings"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/publisher-sidebyside.png",
+            "Caption": "Visually compare you sites with Side by Site compare"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/exporter-dashboard.png",
+            "Caption": "Export and Import parts of your site with uSync.Exporter"
+        },
+        {
+            "ImageUrl": "https://raw.githubusercontent.com/Jumoo/.github/main/img/complete/snapshots.png",
+            "Caption": "Take point in time snapshots of your Umbraco installations"
+        }
+    ],
+    "Tags": [
+        "deployment"
+    ],
+    "VersionSpecificPackageIds": [
+        {
+            "UmbracoMajorVersion": 8,
+            "PackageId": "uSync.Complete"
+        }
+    ]
+}

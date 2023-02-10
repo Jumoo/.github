@@ -1,0 +1,33 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+    "AuthorDetails": {
+        "Description": "Jumoo are a software development company based in the UK",
+        "Url": "https://jumoo.co.uk",
+        "ImageUrl": "https://avatars.githubusercontent.com/jumoo"
+    },
+    "Category": "Translations",
+    "PackageType": "Integration",
+    "LicenseTypes": ["Free", "Purchase"],
+    "Tags": [
+        "translation"
+    ],
+    "PackagesByAuthor": [
+        "uSync",
+        "uSync.Complete",
+        "Jumoo.TranslationManger",
+        "Our.Umbraco.BackOfficeThemes",
+        "Our.Umbraco.LinkedPages",
+        "Our.Umbraco.MaintenanceMode"
+    ],
+    "RelatedPackages": [
+        { 
+            "PackageId": "Jumoo.TranslationManager",
+            "Description": "Translation tools for Umbraco"
+        }
+    ],
+
+    "Title": "DeepL Translation connector",
+    "DiscussionForumUrl": "https://our.umbraco.com/packages/backoffice-extensions/translation-manager/translation-manager-feedback/",
+    "DocumentationUrl": "https://docs.jumoo.co.uk/tm/",
+    "IssueTrackerUrl": "https://github.com/Jumoo/Jumoo.TranslationManager.Issues"
+}
