@@ -55,7 +55,7 @@
     "source-control"
   ],
   "Title": "uSync",
-  "Description" : "Keep your Umbraco Settings and Content in sync - Source control, copy and deploy your Umbraco site between instances and servers."
+  "Description" : "Keep your Umbraco Settings and Content in sync - Source control, copy and deploy your Umbraco site between instances and servers.",
   "VersionSpecificPackageIds": [
     {
       "UmbracoMajorVersion": 8,
