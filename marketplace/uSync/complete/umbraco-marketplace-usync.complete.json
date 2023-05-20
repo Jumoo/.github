@@ -1,6 +1,7 @@
 {
     "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
     "Title": "uSync.Complete",
+    "Description": "Push and Pull, Content, Media and Settings between Umbraco installations from the comfort of the Backoffice UI",
     "AuthorDetails": {
         "Name": "Jumoo",
         "Description": "Jumoo are a software development company based in the UK",
