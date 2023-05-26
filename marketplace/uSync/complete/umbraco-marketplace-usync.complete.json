@@ -8,6 +8,7 @@
         "Url": "https://jumoo.co.uk",
         "ImageUrl": "https://github.com/jumoo.png"
     },
+    "AlternatePackageNames": [ "uSyncExpansions" ],
     "Category": "Developer Tools",
     "DiscussionForumUrl": "https://our.umbraco.com/packages/developer-tools/usync/usynccomplete/",
     "DocumentationUrl": "https://docs.jumoo.co.uk/usync/complete/Introduction/index",
