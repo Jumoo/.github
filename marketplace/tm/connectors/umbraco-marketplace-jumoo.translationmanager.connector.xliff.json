@@ -1,11 +1,12 @@
 {
     "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
-    "AuthorDetails": {
+       "AuthorDetails": {
         "Name": "Jumoo",
         "Description": "Jumoo are a software development company based in the UK",
         "Url": "https://jumoo.co.uk",
         "ImageUrl": "https://jumoo.co.uk/img/ju_square.jpg"
     },
+    "AlternatePackageNames": [ "Xliff File Connector", "TranslationConnector.Xliff" ],
     "Category": "Translations",
     "PackageType": "Integration",
     "LicenseTypes": ["Free", "Purchase"],
