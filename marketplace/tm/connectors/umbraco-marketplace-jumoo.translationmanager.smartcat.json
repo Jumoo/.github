@@ -6,6 +6,7 @@
         "Url": "https://jumoo.co.uk",
         "ImageUrl": "https://jumoo.co.uk/img/ju_square.jpg"
     },
+    "AlternatePackageNames": [ "Translations.Smartcat" ],
     "Category": "Translations",
     "PackageType": "Integration",
     "LicenseTypes": ["Subscription"],
