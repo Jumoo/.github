@@ -41,6 +41,7 @@ Translation manager has lots of connectors, these let you connect directly to ot
     - [SDL World Server](https://www.nuget.org/packages/Jumoo.TranslationManager.Providers.SDlWorldServer/)
     - [OpenAi](https://www.nuget.org/packages/Jumoo.TranslationManager.OpenAI)
 - [Translation memory generator](https://www.nuget.org/packages/Jumoo.TranslationManager.TranslationMemory)
+- [Translation Manager ContentBlocks Mappers](https://www.nuget.org/packages/Jumoo.TranslationManager.ContentBlocks/9.0.0-rc2)
 
 
 ## Other Packages 
